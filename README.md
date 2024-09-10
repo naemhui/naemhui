@@ -6,4 +6,4 @@
 
 개발자 동료로서 함께 성장해나가요!
 
-![image](image/image.png)
+![image](image.png)

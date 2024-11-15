@@ -3,9 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/naemhui" width="400" height="200" />
-  </a>
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/naemhui"
+  width="600"
+  height="300"
+/>
+</a>
 </p>
 
 <p align="center">

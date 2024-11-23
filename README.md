@@ -1,7 +1,7 @@
 <p align="center">
   
   <!-- <img src="https://capsule-render.vercel.app/api?type=wave&color=#FFFF00&height=250&section=header&text=🌷%20NAEM%20🌱&fontSize=70" width="800"> -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FFD400&section=header&text=🌷%20NAEM%20🌱&fontSize=70" width="800">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=FFD400&section=header&text=🌷%20NAEM%20🌱&fontSize=70" width="800">
 </p>
 
 <p align="center">
@@ -42,5 +42,5 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FFD400&section=footer" width="800">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=FFD400&section=footer" width="800">
 </p>

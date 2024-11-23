@@ -12,11 +12,12 @@
 </a>
 </p>
 
-<p align="center">
-  <a href="https://solved.ac/naem">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=naem" alt="Solved.ac Profile" width="400">
-  </a>
-</p>
+<div align="center" style="background-color: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=naem)](https://solved.ac/profile/naem)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=naem&theme=dark)  
+</div>
+
 
 <div align="center">
   <div style="border: 2px solid #2C3E50; border-radius: 15px; padding: 20px; background-color: #34495E; width: 800px; margin: 0 auto;">

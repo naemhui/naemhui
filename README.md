@@ -4,15 +4,31 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=FFD400&section=header&text=🌷%20NAEM%20🌱&fontSize=70" width="800">
 </p>
 
-<p align="center">
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/naemhui"
-  width="600"
-  height="300"
-/>
-</a>
-</p>
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/naemhui"
+      width="600"
+      height="300"
+      alt="naemhui"
+    />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.gitanimals.org/">
+    <img
+      src="https://render.gitanimals.org/guilds/717182506688184097/draw"
+      width="600"
+      height="300"
+      alt="gitanimals"
+    />
+  </a>
+</div>
+
+
 
 <!--
 <div align="center" style="background-color: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
@@ -21,6 +37,10 @@
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=naem&theme=warm)
 </div>
 -->
+
+<p>
+  
+</p>
 
 <div align="center">
   <div style="border: 2px solid #2C3E50; border-radius: 15px; padding: 20px; background-color: #34495E; width: 800px; margin: 0 auto;">

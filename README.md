@@ -24,8 +24,8 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <div style="border: 2px solid #2C3E50; border-radius: 15px; padding: 20px; background-color: #34495E; width: 800px; margin: 0 auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=naemhui&show_icons=true&theme=cobalt" alt="Naem's GitHub stats" width="400">
   </div>
-</div>
+</div> -->
